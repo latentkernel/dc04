@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- DC-04 favicon: terminal prompt glyph on the app's own dark background.
+       Colors pulled verbatim from src/styles.css design tokens:
+       --color-bg-terminal (#0d1117) and --color-status-running (#22c55e). -->
+  <rect width="32" height="32" rx="6" fill="#0d1117" />
+  <path d="M10 9 L18 16 L10 23" fill="none" stroke="#22c55e" stroke-width="3"
+        stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="20" y="20" width="8" height="3" fill="#22c55e" />
+</svg>
